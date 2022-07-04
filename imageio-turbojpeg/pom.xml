@@ -5,12 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>de.digitalcollections.imageio</groupId>
+    <groupId>at.11904212.imageio</groupId>
     <artifactId>imageio-jnr</artifactId>
     <version>0.6.3-SNAPSHOT</version>
   </parent>
   <artifactId>imageio-turbojpeg</artifactId>
-  <name>MDZ/Bayerische Staatsbibliothek :: ImageIO :: TurboJPEG plugin</name>
+  <name>16bit Fix :: ImageIO :: TurboJPEG plugin</name>
   <description>
     ImageIO plugin for reading and writing JPEG images via libjpeg-turbo/turbojpeg.
     Requires the libjpeg-turbo and turbojpeg shared native libraries to be installed on the system.

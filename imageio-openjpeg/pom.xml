@@ -5,12 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>de.digitalcollections.imageio</groupId>
+    <groupId>at.11904212.imageio</groupId>
     <artifactId>imageio-jnr</artifactId>
     <version>0.6.3-SNAPSHOT</version>
   </parent>
   <artifactId>imageio-openjpeg</artifactId>
-  <name>MDZ/Bayerische Staatsbibliothek :: ImageIO :: OpenJPEG/JPEG2000 plugin</name>
+  <name>16bit Fix :: ImageIO :: OpenJPEG/JPEG2000 plugin</name>
   <description>
     ImageIO plugin for reading and writing JPEG2000 images via OpenJPEG.
     Requires the OpenJPEG shared native library to be installed on the system.

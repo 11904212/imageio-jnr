@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>de.digitalcollections.imageio</groupId>
+  <groupId>at.11904212.imageio</groupId>
   <artifactId>imageio-jnr</artifactId>
   <version>0.6.3-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>MDZ/Bayerische Staatsbibliothek :: ImageIO</name>
-  <description>Parent for ImageIO-JNR components.</description>
-  <url>https://github.com/dbmdz/imageio-jnr</url>
+  <name>16bit Fix :: ImageIO</name>
+  <description>a fix to read 16bit jp2.</description>
+  <url>https://github.com/11904212/imageio-jnr</url>
 
   <developers>
     <developer>
